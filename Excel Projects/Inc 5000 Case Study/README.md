@@ -1,6 +1,8 @@
 # Inc 5000 Companies
 A dataset containing information about each company on the INC 5000 list in 2019. Fields include the company name, industry, founding year, website, and location, as well as 2019 revenue, % growth, number of workers (year-over-year), and the number of years on the list.
 
+#### Data Source Link - https://www.kaggle.com/datasets/mysarahmadbhat/inc-5000-companies
+
 ## Data dictionary for the cleaned data 
 
 - rank: The rank of the company on the INC 5000 list in 2019.
