@@ -1,5 +1,8 @@
 # Exploring Zomato Bangalore Data
 
+## Project URL - https://www.kaggle.com/code/akashg004/zomato-eda
+#### Data Source Link - https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants
+
 # Introduction
 
 Bangalore's dining scene has significantly changed over the years, making it known for its diverse culinary landscape. Leading restaurant discovery site Zomato has had a significant impact on how people in the city experience food. The Zomato Bangalore dataset is the subject of this Python project's in-depth exploratory data analysis( EDA).
