@@ -13,7 +13,13 @@ The customer base is spread across 6 countries on 3 continents: Australia, Canad
 - Visualizations: A range of visualizations, including bar charts, line graphs, pie charts, and maps, offering intuitive data interpretations.
 - This project serves as a showcase of advanced Power BI techniques and offers a deep dive into the business analytics of a retail bike shop.
 
+![Adventure Works Report - Maven Analytics_page-0001](https://github.com/iamgakash/Projects/assets/159927555/5b702880-571d-449a-a4f2-0f62d35b4760)
 
+![Adventure Works Report - Maven Analytics_page-0002](https://github.com/iamgakash/Projects/assets/159927555/86d44936-8bf3-4f54-b4fb-8ca9825f2b94)
+
+![Adventure Works Report - Maven Analytics_page-0003](https://github.com/iamgakash/Projects/assets/159927555/217c9978-feba-41ff-a8f3-67781dd59d83)
+
+![Adventure Works Report - Maven Analytics_page-0004](https://github.com/iamgakash/Projects/assets/159927555/20933dc6-8287-4c16-ad23-36ae1787b7d5)
 
 https://github.com/iamgakash/Projects/assets/159927555/f34cb2b2-ba4a-47a6-ba68-2a7729dfcb9f
 
