@@ -56,7 +56,10 @@ Response: 1 if customer accepted the offer in the last campaign, 0 otherwise
 ![Marketing Dashboard_page-0002](https://github.com/iamgakash/Projects/assets/159927555/b6d48a05-086a-4829-bc69-02b53874de18)
 
 
-https://github.com/iamgakash/Projects/assets/159927555/443b5194-f64a-40db-9cd4-6daf8dabdf47
+
+https://github.com/iamgakash/Projects/assets/159927555/750f7dfc-e57c-4802-8640-7358abf03efc
+
+
 
 
 
