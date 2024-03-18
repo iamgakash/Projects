@@ -75,6 +75,46 @@ To analyze and enhance the business performance of Northwind Traders by optimizi
 
 https://github.com/iamgakash/Projects/assets/159927555/b9ead78e-6ff1-42e5-9cde-5376050c4662
 
+## Insights
+
+- Revenue Growth: Northwind Traders experienced significant revenue growth from 2013 to 2014, with a substantial increase from $208,084 to $617,085. However, revenue slightly decreased in 2015 to $440,624. The total revenue over the three years amounted to $1,265,763.
+
+- Shipping Costs: The company's shipping costs followed a similar trend, rising from $10,280 in 2013 to $32,469 in 2014 before decreasing to $22,194 in 2015. The total shipping cost over the three years was $64,493.
+
+- Order Performance: Northwind Traders processed a total of 830 orders, resulting in an average revenue per order of $1,525.
+
+- Monthly Revenue Trends: Monthly revenue showed an upward trend, reaching its peak in April 2015 with $123,799 in revenue.
+
+- Product and Category Insights:
+
+  - The "Beverages" category received the highest number of orders (354), averaging around 15 orders per month. "Produce" was the least ordered category with 129 orders.
+  - The product "Cote de Blaye" generated the highest revenue, amounting to $141,397.
+  - The product "Camembert Pierrot" had the highest quantity sold.
+
+- Customer Insights:
+
+- The top three customers by order frequency were Save-a-lot Markets, Ernest Handel, and QUICK-Stop.
+- USA customers contributed the most revenue ($245,585), followed by Germany ($230,285) and Austria ($128,004). Poland customers contributed the least with $3,532.
+
+- Country Order Analysis:
+
+- Germany and USA had the highest number of orders (122 each), followed by Brazil (83), while Norway had the least orders.
+- Employee Performance: The top three employees by revenue were Margaret Peacock, Janet Leverling, and Nancy Davolio, with Steven Buchanan in the last position.
+
+## Recommendations
+
+- Revenue Management: Diversify revenue streams and optimize shipping costs.
+- Order Efficiency: Increase order value and streamline workflows.
+- Monthly Revenue: Use targeted promotions during peak revenue months.
+- Product Strategy: Focus on top-selling products and expand popular categories.
+- Customer Engagement: Implement retention programs and target marketing effectively.
+- Market Expansion: Increase presence in regions with lower order volumes.
+- Employee Performance: Recognize top performers and invest in training.
+
+
+
+
+
 
 
 
