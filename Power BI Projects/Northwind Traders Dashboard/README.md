@@ -73,6 +73,15 @@ To analyze and enhance the business performance of Northwind Traders by optimizi
 
 
 
+https://github.com/iamgakash/Projects/assets/159927555/b9ead78e-6ff1-42e5-9cde-5376050c4662
+
+
+
+
+
+
+
+
 
 
 
