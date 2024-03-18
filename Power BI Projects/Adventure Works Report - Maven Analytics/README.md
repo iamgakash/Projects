@@ -65,4 +65,21 @@ This project involved the following tasks:
   - The most ordered product is the "Water Bottle - 30 oz."
   - The highest revenue-generating product is the "Fender Set - Mountain."
   - The product with the lowest return rate is the "AWC Logo Cap."
+- The United States leads with the most orders at 8700, while Germany trails behind with only 2294 orders.
 - Most Ordered Product Type is Tires and Tubes and Most Returned Product Type is Shorts
+- Customer Base: AdventureWorks has a substantial customer base of 17.4k unique customers.
+- Average Revenue per Customer: On average, each customer contributes approximately $1,431 in revenue.
+- Top Customer: Mr. Maurice Shan stands out as the top customer with 6 orders, single-handedly contributing $12.4k to AdventureWorks' revenue.
+- The distribution of orders across income levels reveals that the average income level contributes the most, making up 46.98% of total orders, followed by the low-income level at 41.57%, with the high-income level trailing behind at 11.45%.
+- In terms of occupation, professionals make the highest contribution, accounting for 43.41% of total orders. They are followed by skilled manual workers at 32.61%, with management occupying the third position at 23.98%.
+
+## Recommendations
+
+- Focus on Profitable Growth: Keep doing what's working well financially. Maintain efforts to increase sales while keeping costs in check to ensure healthy profits.
+- Reduce Returns: Even though returns are low, it's important to minimize them further. Improve product descriptions and quality to keep customers happy and avoid losses.
+- Keep Growing Revenue: Since revenue is going up, continue efforts to grow even more. Look for new products or markets to expand into, and run promotions to attract more customers.
+- Focus on Popular Products: Pay attention to what customers like most and make sure those products are always available and well-promoted.
+- Expand Market Reach: Keep serving the U.S. market well, but also try to increase sales in other countries like Germany. This will help spread risk and increase sales overall.
+- Know Your Customers: Understand who your customers are and what they like. Tailor your marketing and products to different groups of customers to keep them happy and coming back.
+- Make Shopping Easy and Fun: Keep improving the buying experience for customers. Make it easy to shop online and provide great customer service to keep them happy.
+
